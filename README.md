@@ -14,7 +14,7 @@ MIT license - have fun!
 
 ## Versions
 
-1.0.0. - initial version\
-1.0.1. - published by mistake with no changes at all\
-1.0.2. - add README.md file\
-1.0.2. - edited README.md file
+1.0.1. - initial version\
+1.0.2. - published by mistake with no changes at all\
+1.0.3. - add README.md file\
+1.0.4. - edited README.md file
